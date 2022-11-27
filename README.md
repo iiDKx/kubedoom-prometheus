@@ -52,7 +52,7 @@ $ podman run -it -p5901:5900/tcp \
 
 ### Attaching a VNC Client
 
-Now start a VNC viewer and connect to `localhost:5901`. The password is `idbehold`:
+Now start a VNC viewer and connect to `localhost:590`. The password is `idbehold`:
 ```console
 $ vncviewer viewer localhost:5901
 ```
